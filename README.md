@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Dhwani 👋
 
-<!--
-**wakeupdhwaniii/wakeupdhwaniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Mechatronics and CyberPhysical Systems  
+📍 Germany  
+💡 Interested in Python, Data Analysis, ML, Robotics and much more
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I'm currently working on
+- Strengthening Python fundamentals
+- Data analysis using Pandas & NumPy
+- Mini projects to build a strong ML foundation
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python
+- **Libraries:** NumPy, Pandas, Matplotlib
+- **Tools:** Git, GitHub, VS Code, Jupyter
+
+---
+
+### 📂 Featured Repository
+- **Python Journey**  
+  A structured collection of Python practice, NumPy & Pandas exercises, and mini projects.
+
+---
+
+### 🌱 Goals
+- Build strong ML & robotics-focused projects
+- Prepare for internships / working student roles
+- Maintain clean, well-documented GitHub repositories

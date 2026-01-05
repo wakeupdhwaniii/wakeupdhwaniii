@@ -41,3 +41,16 @@ I’m building a strong foundation in Python, NumPy, and Pandas, with a long-ter
 
 ### 📫 Contact
 - ✉️ Email: **dhwaniyvora@gmail.com**
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=wakeupdhwaniii&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakeupdhwaniii&layout=compact&theme=default&hide_border=true" />
+</p>
+
+

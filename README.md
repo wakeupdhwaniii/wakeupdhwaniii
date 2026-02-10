@@ -22,6 +22,9 @@ My work focuses on autonomous navigation, sensor fusion, and applied computer vi
 - Data analysis using Pandas & NumPy
 - Mini projects to build a strong ML foundation
 - Getting internship-ready for ML/Robotics roles
+- Maintaining and documenting autonomous robotics projects
+- Improving navigation & embedded control logic
+- Adding sensor fusion visualization & demos
 
 ---
 

@@ -1,10 +1,19 @@
 ## Hi, I'm Dhwani 👋
+Automation & AI | Robotics | Embedded Systems
 
 🎓 Master's student in Mechatronics and CyberPhysical Systems  
 📍 Germany  
 💡 Interested in Python, Data Analysis, ML, and Robotics 
 
-I’m building a strong foundation in Python, NumPy, and Pandas, with a long-term focus on machine learning and robotics-oriented applications. I value clean code, structured learning, and well-documented projects.
+I’m building a strong foundation in Python, NumPy, and Pandas, with a long-term focus on machine learning and robotics-oriented applications. I value clean code, structured learning, and well-documented projects. I build practical, real-world systems that combine automation, AI, and embedded control.
+My work focuses on autonomous navigation, sensor fusion, and applied computer vision.
+
+---
+
+### 🚀 Featured Projects
+- 🐕 **RoboDog – Autonomous Navigation & Automation System**  
+- 🧠 **Human Tracking Robot (AI & Computer Vision)**  
+- 🚜 **Earth Rover – Autonomous Multi-Terrain Robot**
 
 ---
 
@@ -41,3 +50,4 @@ I’m building a strong foundation in Python, NumPy, and Pandas, with a long-ter
 
 ### 📫 Contact
 - ✉️ Email: **dhwaniyvora@gmail.com**
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/dhwanivora18
